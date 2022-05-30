@@ -3,7 +3,7 @@
 // Written By Navid Motlagh 
 
 // Create the URL variable to be called in future server promise calls
-var url = `./data/samples.json`
+var url = 'https://raw.githubusercontent.com/amir-motlagh/Plotly-Homework---Belly-Button-Biodiversity/main/data/samples.json'
 
 // READ/FETCH in the json file using "d3.json()" to test and console log
 // We will use this process to access the data
