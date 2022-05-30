@@ -1,77 +1,28 @@
-# Plot.ly Homework - Belly Button Biodiversity
+This is Plotly assignment submission by Amir Motlagh.
 
-![Bacteria by filterforge.com](Images/bacteria.jpg)
+You can find my website at the below URL:
+https://amir-motlagh.github.io/Plotly-Homework---Belly-Button-Biodiversity/StarterCode/
 
-In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonise human navels.
+The Screen captures are saved in "ScreenShots" folder.
 
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+This assignment has three relevant files:
+  1. app.js
+  2. samples.json
+  3. index.html
 
-## Step 1: Plotly
 
-1. Use the D3 library to read in `samples.json`.
+![Web_Address](https://user-images.githubusercontent.com/95452908/170929445-c8c4a4a6-7356-46a1-90d9-e465080104aa.PNG)
 
-2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+________________________________________
 
-* Use `sample_values` as the values for the bar chart.
+![Drop_Down_Menu](https://user-images.githubusercontent.com/95452908/170929682-79a2889f-6eb7-4314-a924-02c84bd50143.PNG)
 
-* Use `otu_ids` as the labels for the bar chart.
+________________________________________
 
-* Use `otu_labels` as the hovertext for the chart.
 
-  ![bar Chart](Images/hw01.png)
+![Bar_Chart](https://user-images.githubusercontent.com/95452908/170929860-12628dff-6583-46d6-960e-20c25a7a2681.PNG)
 
-3. Create a bubble chart that displays each sample.
+________________________________________
 
-* Use `otu_ids` for the x values.
 
-* Use `sample_values` for the y values.
-
-* Use `sample_values` for the marker size.
-
-* Use `otu_ids` for the marker colours.
-
-* Use `otu_labels` for the text values.
-
-![Bubble Chart](Images/bubble_chart.png)
-
-4. Display the sample metadata, i.e., an individual's demographic information.
-
-5. Display each key-value pair from the metadata JSON object somewhere on the page.
-
-![hw](Images/hw03.png)
-
-6. Update all of the plots any time that a new sample is selected.
-
-Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
-
-![hw](Images/hw02.png)
-
-## Advanced Challenge Assignment (Optional)
-
-The following task is advanced and therefore optional.
-
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
-
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
-
-* Update the chart whenever a new sample is selected.
-
-![Weekly Washing Frequency Gauge](Images/gauge.png)
-
-## Deployment
-
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
-
-## Hints
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
-
-### About the Data
-
-Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+![Bubble_Chart](https://user-images.githubusercontent.com/95452908/170929539-4c4b10b0-9864-4fbe-9539-54bdaf78a97c.PNG)
