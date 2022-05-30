@@ -13,11 +13,16 @@ This assignment has three relevant files:
 
 ![Web_Address](https://user-images.githubusercontent.com/95452908/170929445-c8c4a4a6-7356-46a1-90d9-e465080104aa.PNG)
 
+________________________________________
 
 ![Drop_Down_Menu](https://user-images.githubusercontent.com/95452908/170929682-79a2889f-6eb7-4314-a924-02c84bd50143.PNG)
 
+________________________________________
 
-![Bar_Chart](https://user-images.githubusercontent.com/95452908/170929520-5d0dd416-8e79-47ad-887d-3d5da51cc8f0.PNG)
+
+![Bar_Chart](https://user-images.githubusercontent.com/95452908/170929860-12628dff-6583-46d6-960e-20c25a7a2681.PNG)
+
+________________________________________
 
 
 ![Bubble_Chart](https://user-images.githubusercontent.com/95452908/170929539-4c4b10b0-9864-4fbe-9539-54bdaf78a97c.PNG)
